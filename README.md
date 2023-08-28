@@ -4,6 +4,7 @@
 
 ***
 App Logo/Name
+
 <img width="206" alt="ss" src="https://github.com/gulsoy83/MusicApp/assets/46426033/17c2ef55-0ed3-4f85-ba9f-ea7dcea0b0c3">
 
 Login Page
