@@ -8,6 +8,7 @@ App Logo/Name
 
 Login Page
 ![Screenshot_20230828-215517](https://github.com/gulsoy83/MusicApp/assets/46426033/341a397f-4958-40a7-ac93-9a48a8df1486)
+<img width="206" src="https://github.com/gulsoy83/MusicApp/assets/46426033/341a397f-4958-40a7-ac93-9a48a8df1486">
 
 Sign up Page
 ![Screenshot_20230828-215523](https://github.com/gulsoy83/MusicApp/assets/46426033/3d46af50-6fb7-466c-bc2e-011acea8e63a)
